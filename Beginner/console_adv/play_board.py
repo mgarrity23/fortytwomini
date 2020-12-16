@@ -45,7 +45,7 @@ class PlayBoard:
 
     def room_description(self, room):
         room_defs = {
-            1: "You are in room 1. This is the kitchen where out chef hands out.",
+            1: "You are in room 1. This is the kitchen where the chef hangs out.",
             2: "You are in room 2. This is the first of four bedrooms. Try to find the other one.",
             3: "You are in room 3. This is the only bathroom in the house. Weird that it's hidden in the corner of the house.",
             4: "You are in room 4. This is the entry way to the house. Only one way in and out.",
